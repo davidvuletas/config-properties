@@ -1,2 +1,2 @@
-# bank-ui-2fa
-VueJS application of bank which will use 2FA
+# config-properties
+Listed configurations for Spring Cloud config server
